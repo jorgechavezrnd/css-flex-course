@@ -1,0 +1,16 @@
+{
+  "name": "css-flex-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "sass scss:css",
+    "watch": "sass scss:css --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.51.0",
+    "stylelint": "^14.8.1",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-scss": "^4.2.0"
+  }
+}
